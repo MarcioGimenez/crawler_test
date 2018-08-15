@@ -7,8 +7,8 @@
 
 ## Executando o projeto
 - php -S localhost:8181
-- http://localhost:8181/src/Client.php
+- http://localhost:8181
 
 ## Executando os testes
 
-- vendor/bin/phpunit
+- vendor/bin/phpunit tests
